@@ -12,18 +12,40 @@ I enjoy writing README files for my projects. They are so useful and tons of fun
 <table>
   <tr>
     <td>
-           hi
+        Some quick reference points
     </td>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td>code</td>
+    <td>example</td>
+  </tr>
+  <tr>
+    <td>list</td>
+    <td>```* li```</td>
+    <td>*li</td>
+  </tr>
+  <tr>
+    <td>Bold:</td>
+    <td>```**B**```</td>
+    <td>**B** </td>
+  </tr>
+  <tr>
+    <td>Italic</td>
+    <td>```*B*```</td>
+    <td>*B*</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>```[B](https://)```</td>
+    <td>[B](https://)</td>
+  </tr>
+    <tr>
+    <td>Task</td>
+    <td>```[ ], [x]```</td>
+    <td>[ ], [x]</td>
   </tr>
 </table>
 
-| Some quick reference points.                 |
-| :---   | :---:               | ---:          |
-| *name* | *code*              | *example*     |
-| List:  | ```* li```          | *li           |
-| Bold:  | ```**B**```         | **B**         |
-| Italic | ```*B*```           | *B*           |
-| Link   | ```[B](https://)``` | [B](https://) |
-| Task   | ```[ ], [x]```      | [ ], [x]      |
 
 ***CSS***
