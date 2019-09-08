@@ -11,7 +11,7 @@ I enjoy writing README files for my projects. They are so useful and tons of fun
 
 
 |         Some quick reference points.         |
-| -------------------------------------------- |
+| ------ | ------------------- | ------------- |
 | List:  |     ```* li```      |      *li      |
 | Bold:  |     ```**B**```     |     **B**     |
 | Italic |      ```*B*```      |      *B*      |
