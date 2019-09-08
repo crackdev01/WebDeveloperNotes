@@ -11,18 +11,12 @@ I enjoy writing README files for my projects. They are so useful and tons of fun
 
 
  Examples
-
- --- | ---
  
- ```*li``` | *li           
- 
- ```**B**``` | **B**         
- 
- ```*B*``` | *B*           
- 
- ```[B](https://)``` | [B](https://) 
- 
- ```[ ], [x]``` | [ ], [x]      
+ List: ```*li``` | *li <br>
+ Bold: ```**B**``` | **B** <br>
+ Italic: ```*B*``` | *B* <br>
+ Link: ```[B](https://)``` | [B](https://) <br>
+ Task: ```[ ], [x]``` | [ ], [x] <br>
 
 
 ***CSS***
